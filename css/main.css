@@ -188,6 +188,7 @@ header .button {
 .top_mnu li.active a,
 .top_mnu li:hover a {
 	background-color: #050505;
+	transition: all 0.5s ease-in;
 }
 .top_mnu li:nth-child(2) a {
  	background-position: 20px -57px;
